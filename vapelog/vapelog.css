@@ -1,0 +1,62 @@
+<style>
+
+#container {
+	display: flex;
+}
+
+
+.welcome {
+	text-align: center;
+	color: red;
+}
+
+.profile {
+	margin-top: 10px;
+	margin-right: 10px;
+	float: right;
+}
+
+.evlogo {
+	float: left;
+}
+
+.content1 {
+	margin-left: auto;
+    width: 600px;
+    margin: 100px auto;
+	height: 700px;
+    border: 10px solid #DAFEB7;
+    color: black;
+    background-color: #F2FBE0;
+    font-weight: 2em;
+    padding: 25px 50px 75px 100px;
+    font-size: 18px;
+  }
+
+.content2 {
+	margin-right: auto;
+    width: 600px;
+    margin: 100px auto;
+	height: 300px;
+    border: 10px solid #DAFEB7;
+    color: black;
+    background-color: #F2FBE0;
+    font-weight: 2em;
+    padding: 25px 50px 75px 100px;
+    font-size: 18px;
+  } 
+  
+  body {
+    background-color: #b7d2e3;
+  }
+
+  .logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    max-width: 350px;
+    height: 200px;
+  }
+
+</style>
