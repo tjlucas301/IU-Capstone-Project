@@ -1,0 +1,11 @@
+/* Vape location chart style */
+
+.chart {
+	text-align: center;
+}
+canvas{
+	width: 800px;
+	height: 100%;
+}
+
+
