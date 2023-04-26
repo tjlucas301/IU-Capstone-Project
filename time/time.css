@@ -1,0 +1,51 @@
+<style>
+#content {
+    width: 600px;
+    margin: 100px auto;
+    border: 10px solid #DAFEB7;
+    color: black;
+    background-color: #F2FBE0;
+    font-weight: 2em;
+    padding: 25px 50px 75px 100px;
+    font-size: 15px;
+}
+
+.welcome {
+	text-align: center;
+	color: red;
+}
+
+.profile {
+	margin-top: 10px;
+	margin-right: 10px;
+	float: right;
+}
+
+.evlogo {
+	float: left;
+}
+
+body {
+    background-color: #b7d2e3;
+}
+
+.mycss {
+    text-align: center;
+    color: #be1e2d;
+    font-size: 30px;
+    font-family: 'Bebas Neue', cursive;
+    width: 900px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    max-width: 350px;
+    height: 200px;
+  }
+</style>
