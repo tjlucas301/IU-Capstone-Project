@@ -1,0 +1,43 @@
+<style>
+
+.profile {
+	margin-top: 10px;
+	margin-right: 10px;
+	float: right;
+	
+}
+
+.evlogo {
+	float: left;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    max-width: 350px;
+    height: 200px;
+}
+
+body {
+	background-color: #b7d2e3;
+}
+
+.img {
+	display: block;
+	float: left;
+	margin-left: 100px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	height: 250px;
+	width: 250px;
+}
+
+.content {
+	font-size: 30px;
+	margin-left: 600px;
+	
+}
+
+</style>
